@@ -1,0 +1,2 @@
+iterm-finico-color-scheme
+=========================
